@@ -8,3 +8,7 @@ third parallel commit
 
 
 use reset command now after my commit
+
+Now save this as final
+
+Understood git reset!
