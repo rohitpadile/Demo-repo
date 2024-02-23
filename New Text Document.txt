@@ -6,3 +6,5 @@ third commit
 second parallel commit
 third parallel commit
 
+
+use reset command now after my commit
